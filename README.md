@@ -17,7 +17,7 @@ Discord Webhook Tools is a C# application that provides a graphical user interfa
 
 ### Installation
 
-1. Download the latest release of Discord Webhook Tools from the [Releases](link-to-releases-page) page.
+1. Download the latest release of Discord Webhook Tools from the [Releases](https://github.com/helloworld0000red/Webhooktools/releases/tag/discord) page.
 2. Extract the downloaded ZIP file to a location of your choice.
 
 ### Usage
@@ -35,7 +35,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license-file).
+not
 
 ## Support
 
