@@ -25,7 +25,7 @@ Discord Webhook Tools is a C# application that provides a graphical user interfa
 1. Launch the `DiscordWebhookTools.exe` executable.
 2. Follow the on-screen instructions to perform various actions on Discord webhooks.
 
-## Screenshots
+## picture
 
 ![picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140652.png)
 
@@ -39,4 +39,14 @@ not
 
 ## Support
 
-If you encounter any issues or have questions about the application, feel free to [open an issue](link-to-issues-page) on GitHub.
+If you encounter any issues or have questions about the application, feel free to [open an issue](https://github.com/helloworld0000red/Webhooktools/issues) on GitHub.
+
+## More pictures
+
+![picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140724.png)
+![picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140731.png)
+![picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140736.png)
+![picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140744.png)
+![picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140754.png)
+![picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140803.png)
+
