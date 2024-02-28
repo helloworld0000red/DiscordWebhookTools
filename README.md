@@ -27,7 +27,7 @@ Discord Webhook Tools is a C# application that provides a graphical user interfa
 
 ## Screenshots
 
-[picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140652.png)
+![picture](https://github.com/helloworld0000red/Webhooktools/blob/main/Screenshot%202024-02-28%20140652.png)
 
 ## Contributing
 
