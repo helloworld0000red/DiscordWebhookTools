@@ -1,6 +1,7 @@
 # Discord Webhook Tools
 ## TO DO
 add proxy checker and user
+remove minimise button from the message sender
 
 ## Overview
 
