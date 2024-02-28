@@ -2,6 +2,7 @@
 ## TO DO
 add proxy checker and user
 remove minimise button from the message sender
+combine messaging into one 1 button (i just need to remove the button and the button controls will come when i finish proxy system)
 
 ## Overview
 
